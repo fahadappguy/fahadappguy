@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fahadappguy
+- 👀 I’m interested in whatever is happening in the technology world. Web, Apps, E-commerce, Blockchain. I do a little bit of sketching and designs to create simplified UX.
+- 🌱 I’m also currently managing tech teams to deliver projects in the fintech industry along with others interesting ventures. 
+- 💞️ I’m looking to collaborate on any tech platform development. 
